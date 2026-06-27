@@ -90,4 +90,6 @@ Design is provided "as is".
 
 See [SETUP.md](./SETUP.md) for full build instructions.
 
+See [PARTS.md](./PARTS.md) for full part instructions
+
 
